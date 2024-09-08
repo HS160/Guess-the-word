@@ -8,7 +8,7 @@ correct_letter = []
 #length and computer selecting word
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
-print(chosen_word)
+
 
 #Blanks
 placeholder = ""
